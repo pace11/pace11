@@ -1,6 +1,6 @@
 <h3 align="left">
  <abc>
-  <br>👋 Hi, I'm mhd Iriansyah. I'm a Frontend Beauty Developer :computer: <br>
+  <br>👋 Hi, I'm Muhammad Iriansyah. I'm a Frontend Beauty Developer :computer: <br>
  </abc>
 </h3> 
 
