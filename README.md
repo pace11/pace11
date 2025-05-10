@@ -6,9 +6,9 @@
 
    #### [![Next][Next.js]][Next-url] [![React][React.js]][React-url] [![Gatsby][Gatsby.js]][Gatsby-url] [![Graphql][Graphql.org]][Graphql-url] [![Node][Node.js]][Node-url] [![Laravel][Laravel.com]][Laravel-url] [![Lumen][Lumen.com]][Lumen-url] [![Golang][Go.dev]][Go-url]
 
-- :telescope: I'm currently exploring Javascript, Typescript, Graphql, Micro Service, Golang Reactjs, Nextjs and Web Development Tools :alien:
+- :telescope: I'm currently using Typescript, Next.js, Node, Laravel, Mysql, MongoDB, Golang for building Micro Service :alien:
 - :microscope: Always ready to collaborate for Dev Experiments
-- :man_technologist: Software Engineer Frontend in Efishery, Working Remotely
+- :man_technologist: Software Engineer, Mentor Frontend at Sanbercode
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking!
 - :mailbox: Reach out to me at my social media handles: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Iriansyah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-iriansyah-putra-pratama-a0120514b/)](https://www.linkedin.com/in/muhammad-iriansyah-putra-pratama-a0120514b/) [![Instagram Badge](https://img.shields.io/badge/-@ryanpace11-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/ryanpace11/)](https://www.instagram.com/ryanpace11/)
