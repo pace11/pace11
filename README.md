@@ -1,33 +1,40 @@
-<h3 align="left">
- <abc>
-  <br>👋 Hi, I'm Muhammad Iriansyah. I'm a Software Engineer Frontend :computer: <br>
- </abc>
-</h3> 
+## 👋 Hi, I'm Muhammad Iriansyah. I'm a Software Engineer, Frontend Engineer, AI Bestie 🤖
+<p align="left">I'm a Software Engineer with a strong focus on building scalable and maintainable web applications using Next.js, TypeScript, Node.js and Go. Experienced in implementing SSR, SSG, and ISR for SEO-optimized frontend apps, with reusable component design and state management via Redux or Zustand. Comfortable working across the stack, from writing unit tests and managing databases to handling infrastructure using Docker, Docker Compose, and CI/CD workflows. Passionate about learning, exploring new technologies, and solving real-world problems through clean, efficient code.</p>
 
-   #### [![Next][Next.js]][Next-url] [![React][React.js]][React-url] [![Gatsby][Gatsby.js]][Gatsby-url] [![Graphql][Graphql.org]][Graphql-url] [![Node][Node.js]][Node-url] [![Laravel][Laravel.com]][Laravel-url] [![Lumen][Lumen.com]][Lumen-url] [![Golang][Go.dev]][Go-url]
+## Stack in used 🎮
+<div>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+ <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+ <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+ <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+ <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+ <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+ <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
+ <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+ <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+ <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+ <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
+ <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+ <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+ <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
+ <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+ <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+ <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</div>
 
-- :telescope: I'm currently using Typescript, Next.js, Node, Laravel, Mysql, MongoDB, Golang for building Micro Service :alien:
-- :microscope: Always ready to collaborate for Dev Experiments
-- :man_technologist: Software Engineer, Mentor Frontend at Sanbercode
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking!
-- :mailbox: Reach out to me at my social media handles: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Iriansyah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-iriansyah-putra-pratama-a0120514b/)](https://www.linkedin.com/in/muhammad-iriansyah-putra-pratama-a0120514b/) [![Instagram Badge](https://img.shields.io/badge/-@ryanpace11-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/ryanpace11/)](https://www.instagram.com/ryanpace11/)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Lumen.com]: https://img.shields.io/badge/Lumen-FF2D20?style=for-the-badge&logo=lumen&logoColor=white
-[Lumen-url]: https://lumen.laravel.com
-[Node.js]: https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white
-[Node-url]: https://nodejs.org/
-[Graphql.org]: https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white
-[Graphql-url]: https://graphql.org/
-[Go.dev]: https://img.shields.io/badge/Go-007d9C?style=for-the-badge&logo=go&logoColor=white
-[Go-url]: https://do.dev/
-[Gatsby.js]: https://img.shields.io/badge/Gatsby-8A4BAF?style=for-the-badge&logo=gatsby&logoColor=white
-[Gatsby-url]: https://www.gatsbyjs.com/
+## Statistics 📊
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=pace11&show_icons=true&theme=dracula" alt="github-stats" align="left" width="47%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pace11&layout=compact&langs_count=8" alt="top-langs" align="left" width="47%" />
+</div>
