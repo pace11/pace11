@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Muhammad Iriansyah. I'm a Software Engineer, Frontend Engineer, AI Bestie 🤖
+## 👋 Hi, I'm Muhammad Iriansyah. I'm a Software Engineer, Frontend Engineer
 <p align="left">I'm a Software Engineer with a strong focus on building scalable and maintainable web applications using Next.js, TypeScript, Node.js and Go. Experienced in implementing SSR, SSG, and ISR for SEO-optimized frontend apps, with reusable component design and state management via Redux or Zustand. Comfortable working across the stack, from writing unit tests and managing databases to handling infrastructure using Docker, Docker Compose, and CI/CD workflows. Passionate about learning, exploring new technologies, and solving real-world problems through clean, efficient code.</p>
 
 ## Stack in used 🎮
