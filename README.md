@@ -38,6 +38,6 @@
 
 ## Statistics 📊
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=pace11&show_icons=true&theme=dracula" alt="github-stats" align="left" width="47%" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pace11&layout=compact&langs_count=8" alt="top-langs" align="left" width="47%" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pace11&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=pace11&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
 </div>
